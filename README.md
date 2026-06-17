@@ -26,4 +26,4 @@ streamlit run app.py
 
 A complete explanation and execution of the project can be viewed here:
 
-[🎥 Watch Demo Video](https://drive.google.com/file/d/1FIiCABPe6cacI4i_g2aSnqob5Q2kvauG/view?usp=sharing)
+[🎥 Watch Demo Video](https://drive.google.com/file/d/1FliCABPe6cacI4i_g2aSnqob5Q2kvauG/view?usp=sharing).
